@@ -14,4 +14,4 @@ paper_links:
   - label: "Article BlackboxNLP"
     url: "https://aclanthology.org/2026.blackboxnlp-1.47/"
 ---
-Deux articles sur l'attribution d'auteur : « HALvest-Contrastive » (conférence principale), sur l'interaction tardive ; et « Where Does Authorship Signal Emerge? » (BlackboxNLP), sur la formation du signal stylistique.
+Deux articles sur l’attribution d’auteur : « HALvest-Contrastive » (conférence principale), sur l’interaction tardive ; et « Where Does Authorship Signal Emerge? » (BlackboxNLP).
