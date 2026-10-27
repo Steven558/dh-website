@@ -20,4 +20,4 @@ participants:
   - name: "Chahan Vidal-Gorène"
     role: "Enseignant"
 ---
-MEDUSA, développé avec plusieurs enseignants et anciennes étudiantes du master, s'est classé 1er sur l'occitan, 2e sur le tchèque et 2e sur l'épreuve multilingue (mesure par mots) à la compétition Medieval HTR d'ICDAR 2026. Le système a été présenté à HIP’26.
+MEDUSA : 1er sur l’occitan, 2e sur le tchèque et 2e sur le multilingue (mesure par mots) à la compétition Medieval HTR d’ICDAR 2026. Présentation à HIP’26.

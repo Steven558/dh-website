@@ -1,5 +1,5 @@
 ---
-title: "TRACE @ CIKM 2026"
+title: "ACM International Conference on Information and Knowledge Management (CIKM)"
 date: 2026-11-07
 date_end: "2026-11-11"
 category: "Conférence"
@@ -13,4 +13,4 @@ participants:
   - name: "Florian Cafiero"
     role: "Enseignant"
 ---
-Communication acceptée à CIKM 2026 : « TRACE: Accountable Agentic Retrieval for Source Discovery in Digital Archives ». Donghan Bian, ancien étudiant du master, Marie Puren et Florian Cafiero proposent un système de recherche documentaire agentique adapté aux archives historiques.
+Présentation de « TRACE », un système de recherche documentaire agentique pour les archives historiques.
