@@ -8,7 +8,7 @@ participants:
   - name: "Lazar van Berchem"
     role: "M1"
   - name: "Albina Toumarkine"
-    role: "Alumni, ENS-PSL"
+    role: "Alumna, ENS-PSL"
   - name: "Léa Saint-Raymond"
     role: "Enseignant"
 ---
