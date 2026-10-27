@@ -89,6 +89,13 @@
               </div>
               {{ end }}
               {{ with .Content }}<p class="participation-card__summary">{{ . | plainify | truncate 220 }}</p>{{ end }}
+              {{ with .Params.paper_links }}
+              <p class="participation-card__summary">
+                {{ range $i, $link := . }}
+                  {{ if $i }} · {{ end }}<a href="{{ $link.url }}" target="_blank" rel="noopener">{{ $link.label }}<span class="sr-only"> (nouvelle fenêtre)</span></a>
+                {{ end }}
+              </p>
+              {{ end }}
             </div>
           </article>
         </div>

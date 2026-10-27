@@ -10,7 +10,7 @@ participants:
     role: "M2"
   - name: "Florian Cafiero"
     role: "Enseignant"
-  - name: "Vincent Lépiney"
+  - name: "Vincent Lépinay"
     role: "Enseignant"
   - name: "Chahan Vidal-Gorène"
     role: "Enseignant"
